@@ -10,6 +10,7 @@ You need a few people to play with you. There are no strict number, but you all 
 ![A picture of the cards in the game on a table](images/cards-640px.jpg)
 
 ## Print your own version
+#############
 
 Print and cut the files. Play!
 
